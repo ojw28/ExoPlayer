@@ -17,4 +17,4 @@ library being used.
 
 Alternatively, you can clone the ExoPlayer repository and depend on the module
 locally. Instructions for doing this can be found in ExoPlayer's
-[top level README][../../README.md].
+[top level README](../../README.md).
