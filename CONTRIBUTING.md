@@ -2,7 +2,7 @@
 
 ## Reporting issues ##
 
-We use the [GitHub issue tracker](../issues)
+We use the [GitHub issue tracker](../../issues)
 to track bugs, feature requests and questions.
 
 Before filing a new issue, please search the tracker to check if it's already
